@@ -1,0 +1,19 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secrets & Database Credentials
+.env
+
+# Raw and bulky datasets (Kaggle data must be downloaded via instructions in README)
+data/raw/
+*.csv
+*.xlsx
+
+# Operating system files
+.DS_Store
+Thumbs.db
